@@ -12,3 +12,6 @@
 I am planning on putting  this on docker to test how it works to see if I can just copy the environment and run on a friends computer.
 
 This setup is just practice for learning how to do websocket to tcp so I can do stuff with my esp32
+
+
+Also ai was def used heavily to make the frontend quickly since my focus was mostly on getting the stuff to communicate
